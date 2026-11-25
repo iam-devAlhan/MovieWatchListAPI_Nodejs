@@ -1,2 +1,14 @@
 .env
 node_modules
+.agents
+.cursor
+.devin
+.claude
+.windsurf
+/src/generated/prisma
+
+/src/generated/prisma
+
+/src/generated/prisma
+
+/src/generated/prisma
