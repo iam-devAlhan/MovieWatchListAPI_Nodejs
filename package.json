@@ -1,5 +1,5 @@
 {
-  "name": "inventory_management_system",
+  "name": "Movie Watch List API",
   "version": "1.0.0",
   "description": "",
   "main": "dist/app.js",

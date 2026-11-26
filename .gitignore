@@ -5,10 +5,6 @@ node_modules
 .devin
 .claude
 .windsurf
-/src/generated/prisma
-
-/src/generated/prisma
-
-/src/generated/prisma
+skills-lock.json
 
 /src/generated/prisma
